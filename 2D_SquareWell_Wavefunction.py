@@ -11,7 +11,7 @@ V(x,t) = infinity           elsewhere  (x < 0, x > a, y < 0, y > b)
 psi(x=0) = psi(x=a) = 0    boundary conditions -- wavefunction must disappear at bounds
 psi(y=0) = psi(y=b) = 0    boundary conditions -- wavefunction must disappear at bounds
 
-Change the values of nx and ny below to view probability densities for different excited 
+Change the values of nx and ny below to view different excited 
 states of the particle
 
 This code can save the animation as a .gif -- you can change the filepath at the 
